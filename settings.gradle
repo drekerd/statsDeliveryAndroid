@@ -1,0 +1,2 @@
+rootProject.name='StatsDelivery'
+include ':app'
